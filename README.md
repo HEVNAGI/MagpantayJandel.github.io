@@ -1,5 +1,5 @@
 # I am student in LSPU and Taking course for Computer Science
-i am proud of my self(Jandel.jpg)
+i am proud of my self(jandel.jpg)
 
 ### Dream
 SoftwareEngineer, GameDev
