@@ -15,3 +15,6 @@ SoftwareEngineer, GameDev
 
 ### About Me
 i am basketball player and Handsome student from lSPU
+
+### THIS IS MY ALL FILES FOR MY ACTIVITIES AND EXERSICES
+![](https://github.com/HEVNAGI/MagpantayJandel.github.io/blob/main/CSST104%20MAGPANTAYJANDEL%20BSCS3B/MagpantayJandelActivity1ipynb.ipynb)
